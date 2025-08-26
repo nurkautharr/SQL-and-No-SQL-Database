@@ -1,4 +1,4 @@
-# SQL-and-No-SQL-Database
+# SQL and No SQL Database
 
 #### Skills:
 SQL (Programming Language) using MySQL (RDBMS) and No-SQL (Programming Language) using MongoDB (NoSQL DBMS)
