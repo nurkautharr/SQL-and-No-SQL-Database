@@ -5,7 +5,7 @@ SQL (Programming Language) using MySQL (RDBMS) and No-SQL (Programming Language)
 
 ### Task:
 
-### Part 1
+#### Part 1
 Develop an appropriate relational database for a business data and performing queries to obtain some insights of the business-related analysis. The report should include the following:
 
 #### 1. Select data
@@ -27,7 +27,7 @@ Develop an appropriate relational database for a business data and performing qu
 #### 5. SQL queries and index
 - Perform queries to obtain the metric or data identified in (2). Include queries and the output from the queries in the report. The queries must involve multiple tables and use join, group statements and subqueries. Include index in certain data to improve the performance of the query.
 
-### Part 2
+#### Part 2
 The aim of this task is to develop a No-SQL document-based database using MongoDB Compass that allows to perform queries and indexing. Based on the SQL database that has been developed in SQL project, re-design tables in form of document and collection. Document design may be in the form of embedded or reference design (the reference form is using the object_id) in order to represent some relation in the tables (i.e. one-to many). The minimum number of collections in database is two. This is to allow perform of $lookup query. Report should have the following:
 
 #### 1. How the table is being convert into document and why does it need to be appeared as in the single documents (embedded form) of reference documents?
